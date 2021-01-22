@@ -44,7 +44,7 @@
     "insight": "0.8.4",
     "jhipster-core": "1.2.8",
     "js-yaml": "3.8.2",
-    "lodash": "4.17.4",
+    "lodash": "4.17.19",
     "mkdirp": "0.5.1",
     "pluralize": "4.0.0",
     "randexp": "0.4.5",
